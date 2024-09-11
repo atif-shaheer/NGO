@@ -1,0 +1,20 @@
+{
+    "name": "\u0938\u0928\u093e\u0924\u0928 \u0927\u0930\u094d\u092e \u091c\u093e\u0917\u0943\u0924\u093f \u0938\u0947\u0928\u093e",
+    "short_name": "\u0938\u0928\u093e\u0924\u0928 \u0927\u0930\u094d\u092e \u091c\u093e\u0917\u0943\u0924\u093f \u0938\u0947\u0928\u093e",
+    "start_url": "/index.php",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+        {
+            "src": "pwa_images/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "pwa_images/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

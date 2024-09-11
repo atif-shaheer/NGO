@@ -1,0 +1,34 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 11 Sep 2024 11:21:06 at https://sanatandharmajagruti.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sanatandharmajagruti.in/ -O1 "F:\xampp\htdocs\NGO\NGO" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:23:57	Error: 	"Not Found" (404) at link https://sanatandharmajagruti.in/Description (from https://sanatandharmajagruti.in/contact-us.php)
+11:24:00	Error: 	"Not Found" (404) at link https://sanatandharmajagruti.in/n (from kendo.cdn.telerik.com/2017.2.621/js/kendo.all.min.js)
+11:24:00	Error: 	"Not Found" (404) at link https://sanatandharmajagruti.in/docProps/app.xml (from kendo.cdn.telerik.com/2017.2.621/js/kendo.all.min.js)
+11:24:00	Error: 	"Not Found" (404) at link https://sanatandharmajagruti.in/docProps/core.xml (from kendo.cdn.telerik.com/2017.2.621/js/kendo.all.min.js)
+11:24:00	Error: 	"Not Found" (404) at link https://sanatandharmajagruti.in/xl/workbook.xml (from kendo.cdn.telerik.com/2017.2.621/js/kendo.all.min.js)
+11:24:00	Error: 	"Not Found" (404) at link https://sanatandharmajagruti.in/worksheets/sheet${idx}.xml (from kendo.cdn.telerik.com/2017.2.621/js/kendo.all.min.js)
+11:24:00	Error: 	"Not Found" (404) at link https://sanatandharmajagruti.in/styles.xml (from kendo.cdn.telerik.com/2017.2.621/js/kendo.all.min.js)
+11:24:00	Error: 	"Not Found" (404) at link https://sanatandharmajagruti.in/sharedStrings.xml (from kendo.cdn.telerik.com/2017.2.621/js/kendo.all.min.js)
+11:24:00	Error: 	"Not Found" (404) at link https://sanatandharmajagruti.in/core.xml (from kendo.cdn.telerik.com/2017.2.621/js/kendo.all.min.js)
+11:24:00	Error: 	"Not Found" (404) at link https://sanatandharmajagruti.in/app.xml (from kendo.cdn.telerik.com/2017.2.621/js/kendo.all.min.js)
+11:24:00	Error: 	"Not Found" (404) at link https://sanatandharmajagruti.in/workbook.xml (from kendo.cdn.telerik.com/2017.2.621/js/kendo.all.min.js)
+11:24:00	Error: 	"Not Found" (404) at link https://sanatandharmajagruti.in/sheet{0}.xml (from kendo.cdn.telerik.com/2017.2.621/js/kendo.all.min.js)
+11:24:00	Error: 	"Not Found" (404) at link https://sanatandharmajagruti.in/[Content_Types].xml (from kendo.cdn.telerik.com/2017.2.621/js/kendo.all.min.js)
+11:24:00	Error: 	"Not Found" (404) at link https://sanatandharmajagruti.in/GET (from kendo.cdn.telerik.com/2017.2.621/js/kendo.all.min.js)
+11:24:00	Error: 	"Not Found" (404) at link https://sanatandharmajagruti.in/POST (from kendo.cdn.telerik.com/2017.2.621/js/kendo.all.min.js)
+11:24:00	Error: 	"Not Found" (404) at link https://sanatandharmajagruti.in/youtube.com/|youtu.be/ (from kendo.cdn.telerik.com/2017.2.621/js/kendo.all.min.js)
+11:24:00	Error: 	"Not Found" (404) at link https://sanatandharmajagruti.in/_rels/workbook.xml (from kendo.cdn.telerik.com/2017.2.621/js/kendo.all.min.js)
+11:24:00	Error: 	"Not Found" (404) at link https://sanatandharmajagruti.in/xl/sharedStrings.xml (from kendo.cdn.telerik.com/2017.2.621/js/kendo.all.min.js)
+11:24:00	Error: 	"Not Found" (404) at link https://sanatandharmajagruti.in/xl/styles.xml (from kendo.cdn.telerik.com/2017.2.621/js/kendo.all.min.js)
+11:24:00	Error: 	"Not Found" (404) at link https://sanatandharmajagruti.in/CONFIDENCE.T (from kendo.cdn.telerik.com/2017.2.621/js/kendo.all.min.js)
+11:24:00	Error: 	"Not Found" (404) at link https://sanatandharmajagruti.in/_ID_CARD.pdf (from https://sanatandharmajagruti.in/print-user-card-two.php)
+11:24:00	Error: 	"Not Found" (404) at link https://sanatandharmajagruti.in/_Appointment_letter.png (from https://sanatandharmajagruti.in/print-certificate-two.php)
+11:24:00	Error: 	"Not Found" (404) at link https://sanatandharmajagruti.in/_Certificate.png (from https://sanatandharmajagruti.in/print-member-certificate-direct.php)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 54 seconds : 230 links scanned, 206 files written (23520433 bytes overall) [16462819 bytes received at 94613 bytes/sec], 9684194 bytes transferred using HTTP compression in 159 files, ratio 24%, 7.0 requests per connection
+(23 errors, 0 warnings, 0 messages)

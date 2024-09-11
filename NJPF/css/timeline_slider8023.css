@@ -1,0 +1,12 @@
+.post_slider .slider_count {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    font-size: 12px;
+    background: rgba(0,0,0,.6);
+    color: #fff;
+    backdrop-filter: blur(2px);
+    padding: 4px 10px;
+    border-radius: 20px;
+    z-index: 9;
+}
