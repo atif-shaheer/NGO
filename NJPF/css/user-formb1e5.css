@@ -38,7 +38,7 @@ border-radius: 10px;
 }
 .btn-grad {
 background: rgb(255,17,25);
-background: linear-gradient(180deg, rgba(255,17,25,1) 0%, rgba(255,173,39,1) 100%);
+background: linear-gradient(180deg, rgb(60 16 124) 0%, rgb(60 17 124) 100%);
 }
 .btn-grad {
 text-align: center;
@@ -74,7 +74,7 @@ height: 2px;
 margin-bottom: 20px;
 margin-top: 8px;
 background: rgb(255,17,25);
-background: linear-gradient(180deg, rgba(255,17,25,1) 0%, rgba(255,173,39,1) 100%);
+background: linear-gradient(180deg, rgb(60 16 124) 0%, rgb(61 17 124) 100%);
 }
 label {
 font-weight: bold;

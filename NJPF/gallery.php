@@ -441,7 +441,7 @@ li a:hover,
       <div class="navbar_relative">
          <i class="fa fa-bars" id="menu_toggle_btn" onclick="openNav()" aria-hidden="true"></i>
         <div class="website_logo">
-            <a href="index.php"><img src="webimg/LOGO%20_02282024155556.png"></a>
+            <a href="index.php"><img src="webimg/logo.jpeg"></a>
         </div>
         <div class="website_title">
             <p>नवयान परिवार सदस्यता अभियान</p>

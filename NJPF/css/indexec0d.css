@@ -1,6 +1,6 @@
 :root {
-  --background-color: linear-gradient(184deg, rgba(241,97,6,1) 0%, rgba(237,92,0,1) 100%);
-  --text-color: #ed5c00;
+    --background-color: linear-gradient(184deg, rgb(60 17 124) 0%, rgb(61 16 124) 100%);
+    --text-color: #3c117c;
 }
 
 
@@ -355,7 +355,7 @@ height: 6px;
     border-radius:5px;
     cursor:pointer;
     background: rgb(241,97,6);
-background: linear-gradient(184deg, rgba(241,97,6,1) 0%, rgba(237,92,0,1) 100%);
+    background: linear-gradient(184deg, rgb(60 16 124) 0%, rgb(60 16 124) 100%);
 }
 .buttons a button i{
     font-size:25px;

@@ -7,7 +7,7 @@ background: linear-gradient(90deg, rgba(233,233,240,1) 48%, rgba(227,241,241,1) 
 }
 .login-title{
 background: rgb(255,17,25);
-background: linear-gradient(180deg, rgba(255,17,25,1) 0%, rgba(255,173,39,1) 100%);
+background: linear-gradient(180deg, rgb(61 17 124) 0%, rgb(60 16 124) 100%);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
 font-family: 'Acme', sans-serif;
@@ -18,7 +18,7 @@ font-size: 14px;
 }
 .btn-grad {
 background: rgb(255,17,25);
-background: linear-gradient(180deg, rgba(255,17,25,1) 0%, rgba(255,173,39,1) 100%);
+background: linear-gradient(180deg, rgb(60 16 124) 0%, rgb(61 17 124) 100%)
 }
 .btn-grad {
 text-align: center;
